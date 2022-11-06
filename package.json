@@ -1,0 +1,38 @@
+{
+  "name": "bot-v5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node": "^16.10.0",
+    "nodemon": "^2.0.20",
+    "npm": "^8.19.3"
+  },
+  "dependencies": {
+    "@akarui/aoi.music": "^1.2.6",
+    "@akarui/aoi.panel": "0.0.3",
+    "@distube/spotify": "^1.2.1",
+    "aoi.js": "^5.5.5",
+    "aoi.mongo": "^0.2.0",
+    "body-parser": "^1.20.1",
+    "discord-html-transcripts": "^2.4.2",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.4",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "leaf-utils": "^1.1.2",
+    "moment": "^2.29.4",
+    "mongodb": "^4.6.0",
+    "node.js": "0.0.1-security",
+    "uninstall": "0.0.0"
+  }
+}
